@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hey there! ☕
 
-<!--
-**ethanbeez/ethanbeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![20200831_062225-01](https://user-images.githubusercontent.com/32210765/134281736-586bcfbd-cf43-496e-b026-d67effe5b90a.jpeg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Ethan (he/him), and I'm a freshman at the University of Utah studying computer science with an emphasis in game design.
+I was formerly the software lead and team captain at [Spartan Robotics](https://github.com/Team997Coders), and am now exploring the world of game development with my peers on our [SpaceJam](https://github.com/Space-Jam-Coders) team (better name TBA)!
+
+
+## Connect with me 🌎: <img align="left" width="183.25" height="197.375" src="https://user-images.githubusercontent.com/32210765/134279123-470c64d4-2253-4cb2-a29d-7c7314db4d0f.png"></a>
+- Reach out to me on <a href="https://www.linkedin.com/in/ethan-boggs-6b49381b0/">LinkedIn</a> or <a href="mailto:ethanbeez@gmail.com">via email</a>
+- For more casual socials, you can find me here on <a href="https://twitter.com/ethanbeez/">Twitter</a> or <a href="https://discordapp.com/users/209828568442732544/">Discord</a>
+<!-- Make a website! -->
+
