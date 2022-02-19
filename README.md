@@ -4,7 +4,7 @@
 
 
 My name is Ethan (he/him), and I'm a freshman at the University of Utah studying computer science with an emphasis in game design.
-I was formerly the software lead and team captain at [Spartan Robotics](https://github.com/Team997Coders), and am now exploring the world of game development with my peers on our [SpaceJam](https://github.com/Space-Jam-Coders) team (better name TBA)!
+I was formerly the software lead and team captain at [Spartan Robotics](https://github.com/Team997Coders), and am now exploring the world of game development with my peers on the [Monkey Barrel](https://github.com/MonkeyBarrelDevs) development team!
 
 
 ## Connect with me 🌎: <img align="left" width="183.25" height="197.375" src="https://user-images.githubusercontent.com/32210765/134279123-470c64d4-2253-4cb2-a29d-7c7314db4d0f.png"></a>
