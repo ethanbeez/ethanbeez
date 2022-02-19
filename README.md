@@ -1,6 +1,6 @@
 ## Hey there! ☕
 
-<img src="https://user-images.githubusercontent.com/32210765/154787359-02b7e5de-4069-4f4b-a92e-d47e13ed6080.gif" width="960" height="350"/>
+<img src="https://user-images.githubusercontent.com/32210765/154787596-65beed74-49b0-46a4-b9ce-58605f59d39e.gif" width="960" height="250"/>
 
 
 My name is Ethan (he/him), and I'm a freshman at the University of Utah studying computer science with an emphasis in game design.
